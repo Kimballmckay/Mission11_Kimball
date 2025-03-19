@@ -1,0 +1,6 @@
+@Mission11_Kimball.API_HostAddress = http://localhost:5100
+
+GET {{Mission11_Kimball.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
