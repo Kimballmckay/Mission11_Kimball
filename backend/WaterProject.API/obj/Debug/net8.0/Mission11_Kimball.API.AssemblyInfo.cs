@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mission11_Kimball.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+668f19bae3cb7286454832cbd8e4f022ef55c44b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mission11_Kimball.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mission11_Kimball.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
