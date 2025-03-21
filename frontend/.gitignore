@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+bin/
+obj/
+.vs/
+*.suo
+*.user
+*.sln.docstates
