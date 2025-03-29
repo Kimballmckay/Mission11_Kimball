@@ -12,9 +12,16 @@ namespace Mission11_Kimball.API.Controllers
         public BookController(BookDbContext temp) => _bookContext = temp;
 
         [HttpGet("AllBooks")]
-        public IActionResult GetBooks(int pageSize = 5, int pageNum = 1, string? sortOrder = "")
+        public IActionResult GetBooks(int pageSize = 5, int pageNum = 1, [FromQuery] List<string>? bookCategories=null, string? sortOrder = "")
         {
             var query = _bookContext.Books.AsQueryable();
+
+            if (bookCategories != null && bookCategories.Any())
+            {
+                query = query.Where(b => bookCategories.Contains(b.Category));
+            }
+
+            var totalNumBooks = query.Count();
 
             if (sortOrder == "asc")
             {
@@ -30,8 +37,6 @@ namespace Mission11_Kimball.API.Controllers
                 .Take(pageSize)
                 .ToList();
 
-            var totalNumBooks = _bookContext.Books.Count();
-
             var someObject = new
             {
                 Books = something,
@@ -39,6 +44,17 @@ namespace Mission11_Kimball.API.Controllers
             };
 
             return Ok(someObject);
+        }
+
+        [HttpGet("GetBookCategories")]
+        public IActionResult GetBookCategories ()
+        {
+            var bookCategories = _bookContext.Books
+                .Select(b => b.Category)
+                .Distinct()
+                .ToList();
+
+            return Ok(bookCategories);
         }
     }
 }
