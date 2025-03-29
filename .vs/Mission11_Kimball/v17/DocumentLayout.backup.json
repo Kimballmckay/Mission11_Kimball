@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\kimba\\OneDrive\\Desktop\\Mission11_Kimball\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AE8ACA6-933B-BF2A-3671-3E2EAC007D16}|backend{1AE8ACA6-933B-BF2A-3671-3E2EAC007D16}|C:\\Users\\kimba\\OneDrive\\Desktop\\Mission11_Kimball\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{1AE8ACA6-933B-BF2A-3671-3E2EAC007D16}|backend{1AE8ACA6-933B-BF2A-3671-3E2EAC007D16}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{1F2959F2-89FC-B641-C39E-9F4BC5220126}|backend\\WaterProject.API\\Mission11_Kimball.API.csproj|c:\\users\\kimba\\onedrive\\desktop\\mission11_kimball\\backend\\waterproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2959F2-89FC-B641-C39E-9F4BC5220126}|backend\\WaterProject.API\\Mission11_Kimball.API.csproj|solutionrelative:backend\\waterproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F2959F2-89FC-B641-C39E-9F4BC5220126}|backend\\WaterProject.API\\Mission11_Kimball.API.csproj|c:\\users\\kimba\\onedrive\\desktop\\mission11_kimball\\backend\\waterproject.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F2959F2-89FC-B641-C39E-9F4BC5220126}|backend\\WaterProject.API\\Mission11_Kimball.API.csproj|solutionrelative:backend\\waterproject.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F2959F2-89FC-B641-C39E-9F4BC5220126}|backend\\WaterProject.API\\Mission11_Kimball.API.csproj|c:\\users\\kimba\\onedrive\\desktop\\mission11_kimball\\backend\\waterproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F2959F2-89FC-B641-C39E-9F4BC5220126}|backend\\WaterProject.API\\Mission11_Kimball.API.csproj|solutionrelative:backend\\waterproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F2959F2-89FC-B641-C39E-9F4BC5220126}|backend\\WaterProject.API\\Mission11_Kimball.API.csproj|c:\\users\\kimba\\onedrive\\desktop\\mission11_kimball\\backend\\waterproject.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -55,19 +51,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\kimba\\OneDrive\\Desktop\\Mission11_Kimball\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\kimba\\OneDrive\\Desktop\\Mission11_Kimball\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-19T23:04:38.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kimba\\OneDrive\\Desktop\\Mission11_Kimball\\backend\\WaterProject.API\\Program.cs",
               "RelativeDocumentMoniker": "backend\\WaterProject.API\\Program.cs",
@@ -75,7 +58,8 @@
               "RelativeToolTip": "backend\\WaterProject.API\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T15:03:34.302Z"
+              "WhenOpened": "2025-03-19T15:03:34.302Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -87,12 +71,11 @@
               "RelativeToolTip": "backend\\WaterProject.API\\Controllers\\BookController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAADwvxkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T15:07:04.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T15:07:04.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\kimba\\OneDrive\\Desktop\\Mission11_Kimball\\backend\\WaterProject.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "backend\\WaterProject.API\\Properties\\launchSettings.json",
@@ -104,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\kimba\\OneDrive\\Desktop\\Mission11_Kimball\\backend\\WaterProject.API\\Data\\Book.cs",
               "RelativeDocumentMoniker": "backend\\WaterProject.API\\Data\\Book.cs",
@@ -116,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "BookDbContext.cs",
               "DocumentMoniker": "C:\\Users\\kimba\\OneDrive\\Desktop\\Mission11_Kimball\\backend\\WaterProject.API\\Data\\BookDbContext.cs",
               "RelativeDocumentMoniker": "backend\\WaterProject.API\\Data\\BookDbContext.cs",
@@ -128,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kimba\\OneDrive\\Desktop\\Mission11_Kimball\\backend\\WaterProject.API\\appsettings.json",
               "RelativeDocumentMoniker": "backend\\WaterProject.API\\appsettings.json",
