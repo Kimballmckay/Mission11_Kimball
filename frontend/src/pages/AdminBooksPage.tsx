@@ -10,7 +10,6 @@ const AdminBooksPage = () => {
   const [pageSize, setPageSize] = useState<number>(5);
   const [pageNum, setPageNum] = useState<number>(1);
   const [totalPages, setTotalPages] = useState<number>(0);
-  const [sortOrder, setSortOrder] = useState<string>('');
   const [error, setError] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
   const [showForm, setShowForm] = useState(false);
