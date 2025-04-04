@@ -69,3 +69,4 @@ C:\Users\kimba\OneDrive\Desktop\Mission11_Kimball\backend\WaterProject.API\bin\D
 C:\Users\kimba\OneDrive\Desktop\Mission11_Kimball\backend\WaterProject.API\bin\Debug\net8.0\Mission11_Kimball.API.pdb
 C:\Users\kimba\OneDrive\Desktop\Mission11_Kimball\backend\WaterProject.API\obj\Debug\net8.0\Mission11_Kimball.API.genruntimeconfig.cache
 C:\Users\kimba\OneDrive\Desktop\Mission11_Kimball\backend\WaterProject.API\obj\Debug\net8.0\ref\Mission11_Kimball.API.dll
+C:\Users\kimba\OneDrive\Desktop\Mission11_Kimball\backend\WaterProject.API\bin\Debug\net8.0\Bookstore.sqlite

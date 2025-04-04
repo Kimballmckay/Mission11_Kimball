@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mission11_Kimball.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eeb6e79262b446ca2a29da0bc82404b8737d1ab9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d4a2e62b35adf5129801d503933933497f6a153")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mission11_Kimball.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mission11_Kimball.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
